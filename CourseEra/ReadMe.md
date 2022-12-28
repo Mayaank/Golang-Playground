@@ -1,0 +1,1 @@
+This directory houses the assignments for course-era specialization: [Programming with Google Go](https://www.coursera.org/programs/learning-program-merged-ssje0?collectionId=&currentTab=CATALOG&productId=fpgfB6rEEeehUAoZLUjGpg&productType=s12n&showMiniModal=true)
